@@ -5,7 +5,6 @@ int main()
 {
     int row,col,k,n = 0;
     char arr[50];
-    printf("Enter the string:\n");
     scanf("%s",arr);
     int len = strlen(arr);
     int middle =len / 2;
